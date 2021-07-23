@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bharat Singh
-- 👀 I’m interested in web developement
+- 👀 I’m interested in web developement and data science
 - 🌱 I’m currently persuing B-Tech
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bharatcs0550@gmail.com
